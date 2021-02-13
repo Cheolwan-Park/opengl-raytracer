@@ -1,0 +1,6 @@
+[submodule "imgui"]
+	path = imgui
+	url = https://github.com/ocornut/imgui.git
+[submodule "SOIL2"]
+	path = SOIL2
+	url = https://github.com/SpartanJ/SOIL2.git
